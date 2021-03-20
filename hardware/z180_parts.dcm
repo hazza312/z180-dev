@@ -1,0 +1,18 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP A28BV64B
+D 64K (8K x 8) Battery-Voltage Parallel EEPROM with Page Write and Software Data Protection
+K atmel, microchip, eeprom, parallel
+F ../datasheets/at28bv64b.pdf
+$ENDCMP
+#
+$CMP DS3234
+F ../datasheets/DS3234.pdf
+$ENDCMP
+#
+$CMP Z8S180xxFxx
+K zilog, z180, z80
+F ../datasheets/um0050.pdf
+$ENDCMP
+#
+#End Doc Library

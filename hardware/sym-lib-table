@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name z180)(type Legacy)(uri /home/harry/Desktop/z180-dev/hardware/z180_parts.lib)(options "")(descr ""))
+  (lib (name z180-rescue)(type Legacy)(uri ${KIPRJMOD}/z180-rescue.lib)(options "")(descr ""))
+)
